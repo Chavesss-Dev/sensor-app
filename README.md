@@ -50,6 +50,6 @@ Para testar este projeto no seu computador e celular, siga os passos abaixo:
 
 1. **Clone o repositório**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/prototipo-bradesco-security.git](https://github.com/SEU-USUARIO/prototipo-bradesco-security.git)
-   cd sensor-app
+   git clone [https://github.com/SEU-USUARIO/C.git](https://github.com/SEU-USUARIO/prototipo-bradesco-security.git)
+   cd prototipo-bradesco-security
    
